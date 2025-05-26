@@ -105,12 +105,3 @@ Drawing on excerpts from the Grade 11 Web Design and Development Student Module.
 - By focusing on incremental improvements and standardizing best practices, teams can achieve **significant long-term benefits and maintain a competitive edge**.
 
 ---
-
-## Slide 13: Summary
-
-- Kaizen is a **philosophy and methodology for continuous improvement**.
-- It involves **small, incremental changes** made by **everyone** in the organization.
-- Originating in Japan, it is closely linked to **Toyota's production system**.
-- It is guided by principles like **continuous improvement, respect for people, elimination of waste, standardization, quality at the source, and visual management**.
-- Kaizen fosters a culture of **innovation, empowerment, and continuous learning**.
-- It helps organizations stay **agile, adaptive, and competitive**.
